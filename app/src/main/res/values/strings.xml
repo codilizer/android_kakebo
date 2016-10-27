@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UbiKakebo</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="list_spending">
+        <item>Dummy Item One</item>
+        <item>Dummy Item Two</item>
+        <item>Dummy Item Three</item>
+        <item>Dummy Item Four</item>
+    </string-array>
+</resources>
